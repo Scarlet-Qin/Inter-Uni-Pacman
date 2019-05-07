@@ -1,10 +1,8 @@
 # UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
 
-This repository is used by students to fork their own repository to work for the team submission.
+A working Pacman agent that is capable of competing in the tournament in Python by suitably modifying file myTeam.py as per instructions in the UC Berkeley Contest page. The code is internally commented at high standards and be error-free and never crash.
 
-You must FORK **privately** this repository and change slightly the name to **comp90054-pacman-project-\<your student number\>**
-
-Please follow the instructions in LMS.
-
-Hope you enjoy this project!
-
+The Techniques used to build the agents are:
+  - Classsical Planning (PDDL and calling a classical planner)
+  - Monte Carlo Tree Search or UCT (Model-Free MDP)
+  - Reinforcement Learning – classical, approximate or deep Q-learning (Model-Free MDP)
