@@ -1,4 +1,4 @@
-# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
+# UoM COMP90054 AI Planning for Autonomy 
 
 A working Pacman agent that is capable of competing in the tournament in Python by suitably modifying file myTeam.py as per instructions in the UC Berkeley Contest page. The code is internally commented at high standards and be error-free and never crash.
 
